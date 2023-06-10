@@ -320,7 +320,7 @@ left: 30em;
 
          .txt2 {
             position: relative;
-            left: 10em;
+            left: 12em;
             font-size: 200%;
             font-weight: 750%;
             width: 450%;
@@ -328,12 +328,12 @@ left: 30em;
         
             .rnumb {
             position: relative;
-            left: 10em;
+            left: 12em;
             top: 1em;
             font-size: 200%;
             font-weight: 750%;
             text-decoration: none;
-            width: 150%;
+            width: 450%;
             }
 
             .spch {
@@ -346,8 +346,8 @@ left: 30em;
 
             .txt4 {
                 position: relative;
-                top: 7em;
-                left: 1em;
+                top: 6em;
+                left: 0;
                 font-size: 250%;
                 font-weight: 75%;
             }
@@ -375,7 +375,7 @@ left: 30em;
                 top: -32em;
                 left: -3em;
                 list-style-type: none;
-                font-size: 100%;
+                font-size: 120%;
                 font-weight: 600;
             }
             
@@ -384,7 +384,7 @@ left: 30em;
                 top: -27em;
                 left: -3em;
                 list-style-type: none;
-                font-size: 100%;
+                font-size: 120%;
                 font-weight: 600;
             }
             
@@ -393,7 +393,7 @@ left: 30em;
                 top: -23em;
                 left: -3em;
                 list-style-type: none;
-                font-size: 100%;
+                font-size: 120%;
                 font-weight: 600;
             }
             
@@ -402,7 +402,7 @@ left: 30em;
                 top: -21em;
                 left: -3em;
                 list-style-type: none;
-                font-size: 100%;
+                font-size: 120%;
                 font-weight: 600;
             }
             
@@ -411,7 +411,7 @@ left: 30em;
                 top: -19em;
                 left: -3em;
                 list-style-type: none;
-                font-size: 100%;
+                font-size: 120%;
                 font-weight: 600;
             }
             
@@ -421,7 +421,7 @@ left: 30em;
                 margin: 0;
                 padding: 0;
                 width: 400%;
-                height: 320%;
+                height: 520%;
                 top: -80em;
             }
 
@@ -476,6 +476,7 @@ left: 30em;
             .fon {
                 background-image: url('telefonn.jpg');
                 width: 400%;
+                height: 890%;
                 background-repeat: no-repeat;
                 background-size: cover;
                 margin-top: 0;
@@ -483,7 +484,7 @@ left: 30em;
 
             .cont1 {
                 position: relative;
-                top: 20em;
+                top: 18em;
                 left: 7em;
                 list-style-type: none;
                 font-size: 400%;
@@ -492,7 +493,7 @@ left: 30em;
             
             .cont2 {
                 position: relative;
-                top: 21em;
+                top: 18em;
                 left: 4em;
                 list-style-type: none;
                 font-size: 400%;
@@ -509,7 +510,7 @@ left: 30em;
                 position: absolute;
                 width: 100%;
                 left: 10em;
-                top: 150em;
+                top: 147em;
             }
 
             .allprava {
