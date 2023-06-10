@@ -1,0 +1,63 @@
+
+
+.registr{
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    margin: 0 auto;
+    background-color: #b7a39e;
+    padding: 10px 20px 20px;
+    border-radius: 30px;
+    position: absolute;
+    top: 15em;
+    left: 30em;
+}
+
+h2 {
+    position: relative;
+    left: 6em;
+}
+
+input{
+    margin: 15px 10px;
+}
+
+body{
+    background-color: #46312a;
+}
+
+.btn{
+    background-color: rgb(59, 37, 31);
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    position: relative;
+    width: 55px;
+    left: 170px;
+    top: 0em;
+}
+
+
+@media(max-width: 980px){
+
+    .registr{
+    position: absolute;
+    top: 10em;
+    left: 0;
+    width: 95%;
+    }
+
+    h2 {
+        position: relative;
+        left: 2em;
+    }
+
+    .btn{
+    position: relative;
+    width: 30%;
+    left: 75px;
+    top: 0em;
+    }
+}

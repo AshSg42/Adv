@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('provo.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pn{
+    color: black;
+    font-size: 25px;
+    font-family: 'Merriweather', serif;
+    font-weight: 450;
+    position: absolute;
+    top: 2em;
+    left: 3em;
+}
+
+
+.quote {
+    color: black;
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    font-size: 35px;
+    position: absolute;
+    top: 5em;
+}
+
+.but1 {
+    background-color: rgb(59, 37, 31);
+    border-radius: 30px;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 40px;
+    position: absolute;
+    left: 15em;
+    top: 10em;
+}
+
+@media(max-width: 980px){
+
+    body {
+        margin: 0;
+        padding: 0;
+        background-image: url('teleprovo.jpg') ;
+        background-repeat: repeat-y;
+        background-size: cover;
+    }
+
+    .quote {
+      font-size: 15px;
+      position: absolute;
+      top: 8em;
+      left: -2em;
+      width: 95%;
+    }
+
+    .pn{
+      font-size: 13px;
+      width: 85%;
+    }
+
+    .but1 {
+        position: absolute;
+    left: 3em;
+    top: 14em;
+    font-size: 25px;
+    }
+}

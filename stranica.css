@@ -1,0 +1,540 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.txt1 {
+position: relative;
+left: 16em;
+font-family: 'Merriweather', serif;
+font-size: 40px;
+font-weight: 600;
+}
+
+.txt2 {
+    position: relative;
+    left: 480px;
+    font-family: 'Merriweather', serif;
+    font-size: 23px;
+    font-weight: 500;
+    }
+
+    .rnumb {
+        margin: 0;
+        padding: 0;
+    position: relative;
+    left: 530px;
+    top: 1em;
+    font-family: 'Merriweather', serif;
+    font-size: 23px;
+    font-weight: 500;
+    text-decoration: none;
+    }
+
+    .txt3 {
+        position: relative;
+        top: 10em;
+        left: 25px;
+        font-family: 'Merriweather', serif;
+        font-size: 40px;
+        font-weight: 700;
+        color: white;
+    }
+
+.block1 {
+    background-color: #b7a39e;
+    margin: 0;
+    padding: 0;
+    height: 1200px;
+}
+
+ .name {
+    position: relative;
+    left: 16em;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    font-weight: 400;
+    }
+
+.line {
+    position: relative;
+    left: 37em;
+    }
+
+.line2 {
+    position: relative;
+    left: 37em;
+}
+
+.ava {
+width: 500px;
+height: 500px;
+position: relative;
+left: 30em;
+}
+
+.spch {
+    position: relative;
+    top: 4em;
+    left: 7em;
+    font-family: 'Merriweather', serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.txt4 {
+    position: relative;
+    top: 12em;
+    left: 200px;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.zedc {
+    position: relative;
+    top: -20em;
+    left: 20em;
+    list-style-type: none;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.r1 {
+    position: relative;
+    top: -11em;
+    left: -3em;
+    list-style-type: none;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.r2 {
+    position: relative;
+    top: -7em;
+    left: -3em;
+    list-style-type: none;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.r3 {
+    position: relative;
+    top: -3em;
+    left: -3em;
+    list-style-type: none;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.r4 {
+    position: relative;
+    top: 1em;
+    left: -3em;
+    list-style-type: none;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.r5 {
+    position: relative;
+    top: 5em;
+    left: -3em;
+    list-style-type: none;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.big {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 25em;
+    left: 63em;
+    margin: 0;
+    padding: 0;
+}
+
+.obes {
+    position: relative;
+    top: 15em;
+    left: 44em;
+    list-style-type: none;
+    font-family: 'Merriweather', serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.imsld {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.imsld2 {
+    border-radius: 30px;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.bx-wrapper {
+    width: 775px;
+}
+
+.mlt {
+    display: block;
+    padding: 20px;
+    position: relative;
+    top: -11em;
+    left: 15em;
+}
+
+.mlt5 {
+    display: block;
+    padding: 20px;
+    position: relative;
+    top: -10em;
+    left: 15em;
+}
+
+.fon {
+    background-image: url('fonn.jpg');
+    width: 100vw;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0;
+    
+}
+
+.cont1 {
+    position: relative;
+    top: 31em;
+    left: 22em;
+    list-style-type: none;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.cont2 {
+    position: relative;
+    top: 33em;
+    left: 17em;
+    list-style-type: none;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.but2 {
+    background-color: rgb(59, 37, 31);
+    border-radius: 30px;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 40px;
+    position: absolute;
+    left: 13em;
+    top: 92em;
+}
+
+
+.allprava {
+    color: white;
+    font-size: 25px;
+    padding: 30px;
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+    position:relative;
+    left: 18em;
+}
+
+.avtor {
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+    position:relative;
+    left: 22em;
+}
+
+.foot {
+    position: relative;
+    top: 40em;
+    background-color: #2D2828;
+}
+
+
+@media(max-width: 980px) {
+
+    .txt1 {
+        position: relative;
+        left: 8em;
+        font-size: 450%;
+        font-weight: 90%;
+    }
+
+    .ava {
+        width: 150%;
+        position: relative;
+        left: 120%;
+        }
+
+     .name {
+         position: relative;
+         left: 5em;
+         font-size: 350%;
+         width: 500%;
+          }
+
+     .line {
+         width: 90%;
+         position: relative;
+         left: 35em;
+         }
+            
+     .line2 {
+          width: 90%;
+          position: relative;
+          left: 35em;
+         }    
+
+         .txt2 {
+            position: relative;
+            left: 10em;
+            font-size: 200%;
+            font-weight: 750%;
+            width: 450%;
+            }
+        
+            .rnumb {
+            position: relative;
+            left: 10em;
+            top: 1em;
+            font-size: 200%;
+            font-weight: 750%;
+            text-decoration: none;
+            width: 150%;
+            }
+
+            .spch {
+                position: relative;
+                top: 3em;
+                left: 7em;
+                font-size: 400%;
+                font-weight: 50%;
+            }
+
+            .txt4 {
+                position: relative;
+                top: 7em;
+                left: 1em;
+                font-size: 250%;
+                font-weight: 75%;
+            }
+
+            .mlt {
+                display: block;
+                padding: 20px;
+                width: 8%;
+                position: relative;
+                top: -36em;
+                left: 4em;
+            }
+            
+            .mlt5 {
+                display: block;
+                padding: 20px;
+                width: 8%;
+                position: relative;
+                top: -36em;
+                left: 4em;
+            }
+
+            .r1 {
+                position: relative;
+                top: -32em;
+                left: -3em;
+                list-style-type: none;
+                font-size: 100%;
+                font-weight: 600;
+            }
+            
+            .r2 {
+                position: relative;
+                top: -27em;
+                left: -3em;
+                list-style-type: none;
+                font-size: 100%;
+                font-weight: 600;
+            }
+            
+            .r3 {
+                position: relative;
+                top: -23em;
+                left: -3em;
+                list-style-type: none;
+                font-size: 100%;
+                font-weight: 600;
+            }
+            
+            .r4 {
+                position: relative;
+                top: -21em;
+                left: -3em;
+                list-style-type: none;
+                font-size: 100%;
+                font-weight: 600;
+            }
+            
+            .r5 {
+                position: relative;
+                top: -19em;
+                left: -3em;
+                list-style-type: none;
+                font-size: 100%;
+                font-weight: 600;
+            }
+            
+
+            .block1 {
+                background-color: #b7a39e;
+                margin: 0;
+                padding: 0;
+                width: 400%;
+                height: 320%;
+                top: -80em;
+            }
+
+            .big {
+                width: 200%;
+                height: 450%;
+                position: relative;
+                top: 70em;
+                left: 16em;
+                margin: 0;
+                padding: 0;
+            }
+
+            .imsld {
+                width: 200%;
+                height: 400%;
+                position: relative;
+                top: 0;
+                left: 0;
+                margin: 0;
+                padding: 0;
+            }
+            
+            .imsld2 {
+                width: 200%;
+                height: 400%;
+                position: relative;
+                top: 0;
+                left: 0;
+                margin: 0;
+                padding: 0;
+            }
+
+            .obes {
+                position: relative;
+                top: 27em;
+                left: 11em;
+                list-style-type: none;
+                font-size: 40px;
+                font-weight: 60%;
+            }
+            
+            .txt3 {
+                position: relative;
+                top: 15em;
+                left: 5px;
+                font-size: 40px;
+                font-weight: 92%;
+                color: white;
+            }
+
+            .fon {
+                background-image: url('telefonn.jpg');
+                width: 400%;
+                background-repeat: no-repeat;
+                background-size: cover;
+                margin-top: 0;
+            }
+
+            .cont1 {
+                position: relative;
+                top: 20em;
+                left: 7em;
+                list-style-type: none;
+                font-size: 400%;
+                font-weight: 50%;
+            }
+            
+            .cont2 {
+                position: relative;
+                top: 21em;
+                left: 4em;
+                list-style-type: none;
+                font-size: 400%;
+                font-weight: 50%;
+            }
+
+            .but2 {
+                background-color: rgb(59, 37, 31);
+                border-radius: 30px;
+                color: white;
+                padding: 10px;
+                text-decoration: none;
+                font-size: 40px;
+                position: absolute;
+                width: 100%;
+                left: 10em;
+                top: 150em;
+            }
+
+            .allprava {
+                color: white;
+                font-size: 30px;
+                padding: 30px;
+                font-weight: 300;
+                position:relative;
+                left: 4em;
+            }
+            
+            .avtor {
+                color: white;
+                font-size: 30px;
+                padding: 10px;
+                font-family: 'Merriweather', serif;
+                font-weight: 300;
+                position:relative;
+                left: 5em;
+            }
+
+            .foot {
+                position: relative;
+                top: 40em;
+                background-color: #2D2828;
+                width: 500%;
+            }
+}
